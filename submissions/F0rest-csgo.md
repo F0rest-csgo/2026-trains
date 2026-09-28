@@ -13,6 +13,7 @@ KOD社区服多服务器间实现基于WebSocket的跨服通讯
 ## 项目 / PR
 
 - 仓库：https://github.com/F0rest-csgo/KOD-Websocket
+- 录屏：https://drive.google.com/file/d/19z7xf89AZuCYRfeHGKBUMtjrcq9hPLn9/view?usp=sharing
 
 ## 训练营期间的主要增量
 
