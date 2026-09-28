@@ -10,6 +10,14 @@
 
 KOD社区服多服务器间实现基于WebSocket的跨服通讯
 
+本质国内前沿ext，仅少数社区服拥有此ws拓展和写法，但随cs2更新已死去
+
+使用[SourcePawn](https://wiki.alliedmods.net/SourcePawn_Transitional_Syntax)编写，主要代码位于kodwebsocket.sp，未上传编译后文件，如要部署请参考：
+
+- https://developer.valvesoftware.com/wiki/SteamCMD
+- https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive/Dedicated_Servers
+- https://wiki.alliedmods.net/index.php/Category:SourceMod_Documentation
+
 ## 项目 / PR
 
 - 仓库：https://github.com/F0rest-csgo/KOD-Websocket
